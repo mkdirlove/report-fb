@@ -1,6 +1,8 @@
-#ruby facebook auto-reporter
+
 RUBY FACEBOOK AUTO-REPORTER
+
 Created By: Jayson San Buenaventura
+
 Github : https://github.com/mkdirlove
 
 Proof Of Concept Abstractable Auto report profile facebook
