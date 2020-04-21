@@ -29,12 +29,21 @@ USAGE: ruby report-fb.rb [options]
      -h, -H, --HELP,   --help          SHOW HELP/USAGE MESSAGE
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+
 ┃ USAGE: ruby report-fb.rb -l -L --login --LOGIN                  ┃
+
 ┃┌────────────────────────────────────┐                           ┃
+
 ┃│ Example : ruby report-fb.rb --login│                           ┃
+
 ┃└────────────────────────────────────┘                           ┃
+
 ┃ USAGE: ruby report-fb.rb -p -P --person --PERSON 100040832567374┃
+
 ┃┌─────────────────────────────────────────────────────────┐      ┃
+
 ┃│ Example : ruby report-fb.rb --person "target_profile_id"│      ┃
+
 ┃└─────────────────────────────────────────────────────────┘      ┃
+
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
