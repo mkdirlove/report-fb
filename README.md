@@ -1,11 +1,7 @@
 #ruby facebook auto-reporter
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃      RUBY FACEBOOK AUTO-REPORTER     ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ Created By: Jayson San Buenaventura  ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ Github : https://github.com/mkdirlove┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+RUBY FACEBOOK AUTO-REPORTER
+Created By: Jayson San Buenaventura
+Github : https://github.com/mkdirlove
 
 Proof Of Concept Abstractable Auto report profile facebook
 
@@ -17,9 +13,13 @@ Require Library :
 
 Installation :
  $ sudo apt install libssl-dev zlib1g-dev
+ 
  $ sudo gem install nokogiri mechanize colorize highline 
+ 
  $ git clone https://github.com/mkdirlove/report-fb
+ 
  $ cd report-fb
+ 
  $ ruby report-fb.rb --help
 
 USAGE: ruby report-fb.rb [options]
