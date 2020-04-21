@@ -16,6 +16,7 @@ Require Library :
 - highline
 
 Installation :
+
  $ sudo apt install libssl-dev zlib1g-dev
  
  $ sudo gem install nokogiri mechanize colorize highline 
@@ -28,9 +29,9 @@ Installation :
 
 USAGE: ruby report-fb.rb [options]
 
-     -l, -L, --LOGIN,  --login         LOGIN INTO FACEBOOK
-     -p, -P, --PERSON, --person        REPORT ACCOUNT
-     -h, -H, --HELP,   --help          SHOW HELP/USAGE MESSAGE
+                         -l, -L, --LOGIN,  --login         LOGIN INTO FACEBOOK
+                         -p, -P, --PERSON, --person        REPORT ACCOUNT
+                         -h, -H, --HELP,   --help          SHOW HELP/USAGE MESSAGE
 
 
  USAGE: ruby report-fb.rb -l -L --login --LOGIN                  
