@@ -1,9 +1,11 @@
 
 RUBY FACEBOOK AUTO-REPORTER
 
-Created By: Jayson San Buenaventura
+Created By  : Jayson San Buenaventura
 
-Github : https://github.com/mkdirlove
+Facebook    : https://free.facebook.com/100010777094831
+
+Github      : https://github.com/mkdirlove
 
 Proof Of Concept Abstractable Auto report profile facebook
 
@@ -18,7 +20,7 @@ Installation :
  
  $ sudo gem install nokogiri mechanize colorize highline 
  
- $ git clone https://github.com/mkdirlove/report-fb
+ $ git clone https://github.com/mkdirlove/report-fb.git
  
  $ cd report-fb
  
@@ -30,14 +32,12 @@ USAGE: ruby report-fb.rb [options]
      -p, -P, --PERSON, --person        REPORT ACCOUNT
      -h, -H, --HELP,   --help          SHOW HELP/USAGE MESSAGE
 
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 
  USAGE: ruby report-fb.rb -l -L --login --LOGIN                  
 
- Example : ruby report-fb.rb --login│      
+ Example 1 : ruby report-fb.rb --login│      
 
  USAGE: ruby report-fb.rb -p -P --person --PERSON 100040832567374
 
- Example : ruby report-fb.rb --person "target_profile_id"
-
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+ Example 2 : ruby report-fb.rb --person "target_profile_id"
+ 
